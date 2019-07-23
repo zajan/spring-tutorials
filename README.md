@@ -11,3 +11,8 @@ https://spring.io/guides/gs/rest-service/
 https://spring.io/guides/gs/scheduling-tasks/
 
 App that prints out the current time every five seconds using Spring’s @Scheduled annotation.
+
+## spring-jdbc
+https://spring.io/guides/gs/relational-data-access/
+
+Storing and accessing data in a relational database using Spring JdbcTemplate class.
