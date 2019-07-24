@@ -16,3 +16,8 @@ App that prints out the current time every five seconds using Spring’s @Schedu
 https://spring.io/guides/gs/relational-data-access/
 
 Storing and accessing data in a relational database using Spring JdbcTemplate class.
+
+## access-data-jpa
+https://spring.io/guides/gs/accessing-data-jpa/
+
+Storing and accessing data in a relational database using Spring Data JPA.
